@@ -1,0 +1,156 @@
+.p{
+	color:#FFF;
+	font-family: 'Kumbh Sans', sans-serif,'Noto Sans TC', sans-serif;
+	font-size: 15px;
+}
+
+.h1{
+	color:#ffb448;
+	font-family: 'Roboto Condensed', sans-serif;
+	font-size: 100px;
+}
+
+.h5{
+	color:#FFF;
+	font-family: 'Noto Sans TC', sans-serif;
+	font-size: 30px;
+	margin-bottom: 20px;
+}
+
+.branch_title{
+	color:#FFF;
+	font-family: "Roboto Condensed", sans-serif;
+	font-size: 80px;
+}
+
+.branch_subtitle{
+	color:#FFF;
+	font-family: 'Kumbh Sans', sans-serif,'Noto Sans TC', sans-serif;
+	font-size: 20px;
+}
+
+.branch_content{
+	color:#FFF;
+	font-family: 'Kumbh Sans', sans-serif,'Noto Sans TC', sans-serif;
+	font-size: 15px;
+}
+
+.navbar{
+	background-color:rgba(0,0,0,0.7);
+	font-family:"Kumbh Sans", sans-serif;
+	font-weight: bold;
+}
+
+.name{
+	color:#FFF;
+	font-family:"Kumbh Sans", sans-serif;
+	font-weight: bold;
+	padding-left: 10%;
+	margin-bottom: 0;
+}
+
+.nav-link{
+	color:#FFF;
+	transition: all 200ms ease-in-out;
+}
+
+.nav-link:hover{
+	color:#FFB448;
+}
+
+.header{
+	position: relative;
+	height: 700px;
+}
+
+.header_fixed{
+	position: fixed;
+	width: 100%;
+}
+
+.header_img{
+	position: relative;
+}
+
+.about{
+	position: relative;
+	background-color:#959595;
+}
+
+.about_title{
+	position: relative;
+	left: -60px;
+	top: -30px;
+}
+
+.project{
+	position: relative;
+	background-image:url('../img/img_project_bg.png');
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	height: 300px;
+	text-align: center;
+	padding-top: 50px;
+}
+
+.news{
+	position: relative;
+	background-color:#959595;
+}
+
+.news_title{
+	position: relative;
+	left: -60px;
+	top: -30px;
+}
+
+.img_flex{
+	height:550px;
+	overflow: hidden;
+	display:flex;
+	align-items: center;
+}
+
+.branch{
+	position: relative;
+	background-color:#FFB448;
+	height: 270px;
+}
+
+.branch_line{
+	width: 200px;
+	height: 2px;
+	background: #FFF;
+	margin-bottom: 20px;
+}
+
+.branch_title{
+	transform: rotate(90deg);
+	padding-left: 20px;
+}
+
+.contact{
+	position: relative;
+	background-color:#5A5A5A;
+}
+
+.contact_title{
+	position: relative;
+	z-index:1;
+	top: 30px;
+}
+
+.contact_left{
+	padding-left: 20%;
+}
+
+.footer{
+	position: relative;
+	background-color:#BCBCBC;
+	text-align: center;
+}
+
+.footer_p{
+	margin-bottom: 0;
+}

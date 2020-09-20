@@ -1,0 +1,1 @@
+$.scrollingParallax('../img/img_project_bg.png');
